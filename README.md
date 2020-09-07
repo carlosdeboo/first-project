@@ -1,4 +1,4 @@
-# first-project
+# Github Pages
 Harnessing the power of github pages, with maximum feature utilization and control!
 
 
